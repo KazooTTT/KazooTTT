@@ -1,19 +1,18 @@
+# KazooTTT
+每天进步一点点
+
+[KazooTTT Blog | 博客](https://blog.kazoottt.club/)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KazooTTT&theme=radical" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazooTTT&theme=radical" />
+</a>
 
 
-<!--
-**KazooTTT/KazooTTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📕 Latest Blog Posts
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KazooTTT&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
