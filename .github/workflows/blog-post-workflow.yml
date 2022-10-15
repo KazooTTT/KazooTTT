@@ -14,5 +14,6 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          template: $newline - [$randomEmoji $date-$title]($url)
+          template: $newline - [$date $title]($url)
+          date_format: "yyyy-mm-dd"	
           feed_list: "https://blog.kazoottt.club/feed.xml"
