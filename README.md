@@ -15,4 +15,4 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
- - [$randomEmoji Wed Oct 12 2022 12:00 AM-博客改造日志](https://kazoottt.github.io//2022/10/12/%E5%8D%9A%E5%AE%A2%E6%94%B9%E9%80%A0%E6%97%A5%E5%BF%97/)<!-- BLOG-POST-LIST:END -->
+ - [2022-10-12 博客改造日志](https://kazoottt.github.io//2022/10/12/%E5%8D%9A%E5%AE%A2%E6%94%B9%E9%80%A0%E6%97%A5%E5%BF%97/)<!-- BLOG-POST-LIST:END -->
