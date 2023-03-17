@@ -1,7 +1,7 @@
 # KazooTTT
 每天进步一点点
 
-[KazooTTT Blog | 博客](https://blog.kazoottt.club/)
+[KazooTTT Blog | 博客](https://kazoottt.top)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KazooTTT&theme=radical" />
