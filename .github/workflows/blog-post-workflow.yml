@@ -16,4 +16,4 @@ jobs:
         with:
           template: $newline - [$date $title]($url)
           date_format: "yyyy-mm-dd"	
-          feed_list: "https://blog.kazoottt.club/feed.xml"
+          feed_list: "https://portfolio-starter-kit-kazoottt.vercel.app/feed.xml"
