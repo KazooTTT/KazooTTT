@@ -15,4 +15,4 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - [2023-10-08 国庆厦门&amp;杭州之行](/posts/amoy-hangzhou-2023)<!-- BLOG-POST-LIST:END -->
