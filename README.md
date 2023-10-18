@@ -13,3 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazooTTT&theme=radical" />
 </a>
 
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
