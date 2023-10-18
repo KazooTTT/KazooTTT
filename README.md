@@ -13,4 +13,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazooTTT&theme=radical" />
 </a>
 
-[![language](https://wakatime.com/share/@kazoottt/416d0e33-794c-4d94-9f20-93cdec89213a.svg)](https://wakatime.com/@kazoottt)
