@@ -14,5 +14,7 @@
 </a>
 
 
+## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
- - [2023-10-08 国庆厦门&amp;杭州之行](https://portfolio-starter-kit-kazoottt.vercel.app//posts/amoy-hangzhou-2023)<!-- BLOG-POST-LIST:END -->
+
+<!-- BLOG-POST-LIST:END -->
