@@ -19,5 +19,5 @@
  - [2023-10-20 一个播客demo](https://kazoottt.top/webapp-podcasts-app-demo)
  - [2023-10-20 毛怪俱乐部帖子显示最新回复时间](https://kazoottt.top/userscript-mgclub-show-comment-time)
  - [2023-10-20 隐藏你的twitter信息](https://kazoottt.top/userscript-hide-your-twitter-info)
- - [2023-10-20 Blog Post](https://kazoottt.top/blog-post)
- - [2023-10-17 各种软件使用方式梳理](https://kazoottt.top/software-usage)<!-- BLOG-POST-LIST:END -->
+ - [2023-10-17 各种软件使用方式梳理](https://kazoottt.top/software-usage)
+ - [2023-10-17 博客开发计划](https://kazoottt.top/blog-planlist)<!-- BLOG-POST-LIST:END -->
