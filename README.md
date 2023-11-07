@@ -16,8 +16,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
- - [2023-10-20 一个播客demo](https://kazoottt.top/webapp-podcasts-app-demo)
- - [2023-10-20 毛怪俱乐部帖子显示最新回复时间](https://kazoottt.top/userscript-mgclub-show-comment-time)
- - [2023-10-20 隐藏你的twitter信息](https://kazoottt.top/userscript-hide-your-twitter-info)
- - [2023-10-20 Blog Post](https://kazoottt.top/blog-post)
- - [2023-10-17 各种软件使用方式梳理](https://kazoottt.top/software-usage)<!-- BLOG-POST-LIST:END -->
+ - [2023-11-06 一个播客demo](https://kazoottt.top/webapp-podcasts-app-demo)
+ - [2023-11-06 各种软件使用方式梳理](https://kazoottt.top/my-software-usage)
+ - [2023-11-06 切片总结](https://kazoottt.top/slices-summary)
+ - [2023-11-06 梳理剪辑所需预设](https://kazoottt.top/presets-required-for-slice)
+ - [2023-11-06 零散备忘](https://kazoottt.top/some-memos)<!-- BLOG-POST-LIST:END -->
