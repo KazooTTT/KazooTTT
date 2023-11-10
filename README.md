@@ -16,8 +16,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
- - [2023-11-06 一个播客demo](https://kazoottt.top/webapp-podcasts-app-demo)
- - [2023-11-06 各种软件使用方式梳理](https://kazoottt.top/my-software-usage)
- - [2023-11-06 切片总结](https://kazoottt.top/slices-summary)
- - [2023-11-06 梳理剪辑所需预设](https://kazoottt.top/presets-required-for-slice)
- - [2023-11-06 零散备忘](https://kazoottt.top/some-memos)<!-- BLOG-POST-LIST:END -->
+ - [2023-10-16 请求头中和响应头的Cache-Control](https://tangly1024.com/article/cache-control-for-headers)
+ - [2023-10-16 零散备忘](https://tangly1024.com/article/some-memos)
+ - [2023-10-08 国庆厦门&amp;杭州之行](https://tangly1024.com/article/amoy-zhejiang-travel-2023)
+ - [2023-08-12 2023bw汇报](https://tangly1024.com/article/bw2023)
+ - [2023-01-15 切片总结](https://tangly1024.com/article/slices-summary)<!-- BLOG-POST-LIST:END -->
