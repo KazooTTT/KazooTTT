@@ -16,8 +16,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
- - [2023-10-16 请求头中和响应头的Cache-Control](https://tangly1024.com/article/cache-control-for-headers)
- - [2023-10-16 零散备忘](https://tangly1024.com/article/some-memos)
- - [2023-10-08 国庆厦门&amp;杭州之行](https://tangly1024.com/article/amoy-zhejiang-travel-2023)
- - [2023-08-12 2023bw汇报](https://tangly1024.com/article/bw2023)
- - [2023-01-15 切片总结](https://tangly1024.com/article/slices-summary)<!-- BLOG-POST-LIST:END -->
+ - [2023-11-09 【图标库】devicon](https://kazoottt.top/article/devicon)
+ - [2023-11-08 学习计划](https://kazoottt.top/article/71e8210e-4f39-476e-89b5-15d651f7ab2e)
+ - [2023-10-16 请求头中和响应头的Cache-Control](https://kazoottt.top/article/cache-control-for-headers)
+ - [2023-10-08 国庆厦门&amp;杭州之行](https://kazoottt.top/article/amoy-zhejiang-travel-2023)
+ - [2023-08-12 2023bw汇报](https://kazoottt.top/article/bw2023)<!-- BLOG-POST-LIST:END -->
