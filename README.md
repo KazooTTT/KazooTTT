@@ -16,8 +16,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
- - [2023-11-09 【图标库】devicon](https://kazoottt.top/article/devicon)
- - [2023-10-16 ant design专题](https://kazoottt.top/article/ant-design-topics)
- - [2023-10-16 零散备忘](https://kazoottt.top/article/some-memos)
- - [2023-09-17 屏蔽推特黄推](https://kazoottt.top/article/5236e7be-80ce-443c-95c6-3bd91203f8a7)
- - [2023-09-14 快速获取telegram chatId的方法](https://kazoottt.top/article/get-telegram-chatid-quickly)<!-- BLOG-POST-LIST:END -->
+ - [2023-11-13 3-周报 平淡的一周](https://kazoottt.top/article/weekly3)
+ - [2023-09-19 codeimage.dev 代码美化工具](https://kazoottt.top/article/codeimage.dev)
+ - [2023-03-13 2-资讯周报](https://kazoottt.top/article/weekly2)
+ - [2023-03-06 1-资讯周报](https://kazoottt.top/article/weekly1)
+ - [2023-01-03 2022年度总结](https://kazoottt.top/article/2022-summary)<!-- BLOG-POST-LIST:END -->
