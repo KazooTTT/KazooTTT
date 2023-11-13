@@ -17,7 +17,7 @@
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
  - [2023-11-13 3-周报 平淡的一周](https://kazoottt.top/article/weekly3)
- - [2023-09-19 codeimage.dev 代码美化工具](https://kazoottt.top/article/codeimage.dev)
+ - [2023-11-10 阅读](https://kazoottt.top/article/reading-collections)
+ - [2023-11-10 影视](https://kazoottt.top/article/movie-collections)
  - [2023-03-13 2-资讯周报](https://kazoottt.top/article/weekly2)
- - [2023-03-06 1-资讯周报](https://kazoottt.top/article/weekly1)
  - [2023-01-03 2022年度总结](https://kazoottt.top/article/2022-summary)<!-- BLOG-POST-LIST:END -->
