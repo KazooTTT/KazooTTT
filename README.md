@@ -16,8 +16,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
+ - [2023-12-22 如何让react-app-rewired 2支持热加载](https://kazoottt.top/article/how-to-make-react-app-rewired-2-support-hot-reloading)
+ - [2023-12-22 使用docker部署nextjs](https://kazoottt.top/article/deploying-nextjs-with-docker)
+ - [2023-12-13 【译】Alpine、Slim、Bookworm、Bullseye、Stretch、Jessie - 我应该选择哪个 Docker Image？](https://kazoottt.top/article/alpine-slim-stretch-bookworm-bullseye-buster-jessie-which-docker-image-should-i-choose)
  - [2023-12-05 管理python环境的方式](https://kazoottt.top/article/python-env-manage)
- - [2023-12-03 5-周报 转岗了](https://kazoottt.top/article/weekly5)
- - [2023-11-19 4-周报 开始接触理财和web3 2023-11-19](https://kazoottt.top/article/weekly4)
- - [2023-11-13 3-周报 平淡的一周 2023-11-06](https://kazoottt.top/article/weekly3)
- - [2023-03-13 2-资讯周报 2023-11-14](https://kazoottt.top/article/weekly2)<!-- BLOG-POST-LIST:END -->
+ - [2023-11-14 设计参考篇](https://kazoottt.top/article/design-ref)<!-- BLOG-POST-LIST:END -->
