@@ -16,8 +16,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
- - [2024-01-11 开发者资讯周刊第6期](https://kazoottt.top/article/newsletter-6)
- - [2023-12-03 开发者资讯周刊第5期](https://kazoottt.top/article/weekly5)
- - [2023-11-14 设计参考篇](https://kazoottt.top/article/design-ref)
- - [2023-11-09 图标库篇](https://kazoottt.top/article/icons-recommends)
- - [2023-09-17 屏蔽推特黄推提升使用体验](https://kazoottt.top/article/twitter-recommends)<!-- BLOG-POST-LIST:END -->
+ - [2024-02-01 akko键盘蓝牙切换](https://kazoottt.top/article/akko)
+ - [2024-01-31 如何让你的截图更加好看？](https://kazoottt.top/article/shot-prettier)
+ - [2024-01-31 配置nginx以成功代理websocket](https://kazoottt.top/article/nginx-websocket)
+ - [2024-01-18 开发者资讯周刊第7期-应用推荐篇](https://kazoottt.top/article/weekly7-apps)
+ - [2024-01-18 开发者资讯周刊第7期-推荐阅读篇](https://kazoottt.top/article/weekly7-read)<!-- BLOG-POST-LIST:END -->
