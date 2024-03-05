@@ -18,8 +18,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
+ - [2024-03-04 值得一看的博客](https://kazoottt.top/article/blogs-worth-reading)
+ - [2024-02-25 实现一个auto slugify](https://kazoottt.top/article/implement-an-auto-slugify)
+ - [2024-02-23 如何快速导出vercel project中的环境变量](https://kazoottt.top/article/how-to-quickly-export-environment-variables-in-vercel-project)
  - [2024-01-18 开发者资讯周刊第7期-应用推荐篇](https://kazoottt.top/article/weekly7-apps)
- - [2024-01-18 开发者资讯周刊第7期-推荐阅读篇](https://kazoottt.top/article/weekly7-read)
- - [2024-01-18 开发者资讯周刊第7期-编程篇](https://kazoottt.top/article/weekly7-dev)
- - [2024-01-18 开发者资讯周刊第7期-设计篇](https://kazoottt.top/article/weekly7-design)
- - [2024-01-11 开发者资讯周刊第6期](https://kazoottt.top/article/newsletter-6)<!-- BLOG-POST-LIST:END -->
+ - [2024-01-18 开发者资讯周刊第7期-推荐阅读篇](https://kazoottt.top/article/weekly7-read)<!-- BLOG-POST-LIST:END -->
