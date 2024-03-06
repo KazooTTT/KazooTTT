@@ -19,7 +19,7 @@
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
  - [2024-03-04 值得一看的博客](https://kazoottt.top/article/blogs-worth-reading)
+ - [2024-03-01 md路径正确但是图片不显示的原因](https://kazoottt.top/article/the-reason-why-the-markdown-path-is-correct-but-the-image-is-not-displayed)
  - [2024-02-25 实现一个auto slugify](https://kazoottt.top/article/implement-an-auto-slugify)
- - [2024-02-23 如何快速导出vercel project中的环境变量](https://kazoottt.top/article/how-to-quickly-export-environment-variables-in-vercel-project)
- - [2024-01-18 开发者资讯周刊第7期-应用推荐篇](https://kazoottt.top/article/weekly7-apps)
- - [2024-01-18 开发者资讯周刊第7期-推荐阅读篇](https://kazoottt.top/article/weekly7-read)<!-- BLOG-POST-LIST:END -->
+ - [2024-02-18 如何在前端提供实现下载文件](https://kazoottt.top/article/how-to-provide-implementation-download-files-on-the-frontend)
+ - [2024-02-18 npm发包失败的原因](https://kazoottt.top/article/reasons-why-npm-fails-to-send-packages)<!-- BLOG-POST-LIST:END -->
