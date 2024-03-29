@@ -18,8 +18,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
+ - [2024-03-27 cra系列比较](https://kazoottt.top/article/cra-series-comparison)
+ - [2024-03-27 与其倒腾，不如静下心来](https://kazoottt.top/article/instead-of-tossing-upside-down-its-better-to-calm-down)
  - [2024-03-04 值得一看的博客](https://kazoottt.top/article/blogs-worth-reading)
- - [2024-03-01 md路径正确但是图片不显示的原因](https://kazoottt.top/article/the-reason-why-the-markdown-path-is-correct-but-the-image-is-not-displayed)
- - [2024-02-25 实现一个auto slugify](https://kazoottt.top/article/implement-an-auto-slugify)
- - [2024-02-18 如何在前端提供实现下载文件](https://kazoottt.top/article/how-to-provide-implementation-download-files-on-the-frontend)
- - [2024-02-18 npm发包失败的原因](https://kazoottt.top/article/reasons-why-npm-fails-to-send-packages)<!-- BLOG-POST-LIST:END -->
+ - [2024-02-13 ant design pro i18n-remove报错](https://kazoottt.top/article/ant-design-pro-i18n-remove)
+ - [2024-02-11 愿望清单](https://kazoottt.top/article/wishlist)<!-- BLOG-POST-LIST:END -->
