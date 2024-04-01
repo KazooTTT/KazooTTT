@@ -18,8 +18,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
+ - [2024-04-01 如何更加直接地查看浏览器内核](https://kazoottt.top/article/how-to-look-at-the-browser-kernel-more-directly)
  - [2024-03-27 cra系列比较](https://kazoottt.top/article/cra-series-comparison)
  - [2024-03-27 与其倒腾，不如静下心来](https://kazoottt.top/article/instead-of-tossing-upside-down-its-better-to-calm-down)
- - [2024-03-04 值得一看的博客](https://kazoottt.top/article/blogs-worth-reading)
- - [2024-02-13 ant design pro i18n-remove报错](https://kazoottt.top/article/ant-design-pro-i18n-remove)
- - [2024-02-11 愿望清单](https://kazoottt.top/article/wishlist)<!-- BLOG-POST-LIST:END -->
+ - [2024-02-11 愿望清单](https://kazoottt.top/article/wishlist)
+ - [2023-11-09 图标库篇](https://kazoottt.top/article/icons-recommends)<!-- BLOG-POST-LIST:END -->
