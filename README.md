@@ -18,8 +18,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
- - [2024-04-01 如何更加直接地查看浏览器内核](https://kazoottt.top/article/how-to-look-at-the-browser-kernel-more-directly)
- - [2024-03-27 cra系列比较](https://kazoottt.top/article/cra-series-comparison)
- - [2024-03-27 与其倒腾，不如静下心来](https://kazoottt.top/article/instead-of-tossing-upside-down-its-better-to-calm-down)
- - [2024-02-11 愿望清单](https://kazoottt.top/article/wishlist)
- - [2023-11-09 图标库篇](https://kazoottt.top/article/icons-recommends)<!-- BLOG-POST-LIST:END -->
+ - [2024-04-11 blender学习记录](https://kazoottt.top/article/blender-learning-record)
+ - [2024-04-11 npm和npx的区别](https://kazoottt.top/article/difference-between-npm-and-npx)
+ - [2024-01-07 Y4-2023年度总结](https://kazoottt.top/article/2023-summary)
+ - [2023-01-03 Y3-2022年度总结](https://kazoottt.top/article/2022-summary)
+ - [2021-12-30 Y2-2021年度总结](https://kazoottt.top/article/2021-summary)<!-- BLOG-POST-LIST:END -->
