@@ -18,8 +18,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
+ - [2024-04-11 前端入门的项目](https://kazoottt.top/article/projects-to-get-started-on-the-front-end)
+ - [2024-04-11 防盗链的原理与绕过](https://kazoottt.top/article/anti-theft-chain-principle-and-bypass)
  - [2024-04-11 fetch 报错排查 SocketError other side closed](https://kazoottt.top/article/fetch-socketerror-other-side-closed)
  - [2024-04-11 npm和npx的区别](https://kazoottt.top/article/difference-between-npm-and-npx)
- - [2024-04-11 前端常用工具](https://kazoottt.top/article/common-tools-on-the-front-end)
- - [2024-04-01 如何实现在markdown中渲染iframe](https://kazoottt.top/article/how-to-render-iframes-in-markdown)
- - [2024-04-01 如何更加直接地查看浏览器内核](https://kazoottt.top/article/how-to-look-at-the-browser-kernel-more-directly)<!-- BLOG-POST-LIST:END -->
+ - [2024-04-11 前端常用工具](https://kazoottt.top/article/common-tools-on-the-front-end)<!-- BLOG-POST-LIST:END -->
