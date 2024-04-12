@@ -18,8 +18,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
- - [2024-03-27 与其倒腾，不如静下心来](https://kazoottt.top/article/instead-of-tossing-upside-down-its-better-to-calm-down)
- - [2024-01-18 2024-W03-设计篇](https://kazoottt.top/article/2024-W03-design)
- - [2024-01-18 2024-W03-编程篇](https://kazoottt.top/article/2024-W03-programming)
- - [2024-01-18 2024-W03-推荐阅读篇](https://kazoottt.top/article/2024-W03-recommended-readings)
- - [2024-01-18 2024-W03-应用推荐篇](https://kazoottt.top/article/2024-W03-application-recommendations)<!-- BLOG-POST-LIST:END -->
+ - [2024-04-12 2024-W15](https://kazoottt.top/article/2024-W15)
+ - [2024-04-11 blender学习记录](https://kazoottt.top/article/blender-learning-record)
+ - [2024-04-11 无设计经验的人如何快速利用工具制作封面](https://kazoottt.top/article/how-people-with-no-design-experience-can-quickly-make-use-of-tools-to-make-covers)
+ - [2024-04-09 Diffusion Model演示文稿](https://kazoottt.top/article/diffusion-model)
+ - [2024-02-23 2024-W08](https://kazoottt.top/article/2024-W08)<!-- BLOG-POST-LIST:END -->
