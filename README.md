@@ -18,8 +18,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
- - [2024-04-11 前端入门的项目](https://kazoottt.top/article/projects-to-get-started-on-the-front-end)
- - [2024-04-11 防盗链的原理与绕过](https://kazoottt.top/article/anti-theft-chain-principle-and-bypass)
- - [2024-04-11 fetch 报错排查 SocketError other side closed](https://kazoottt.top/article/fetch-socketerror-other-side-closed)
- - [2024-04-11 npm和npx的区别](https://kazoottt.top/article/difference-between-npm-and-npx)
- - [2024-04-11 前端常用工具](https://kazoottt.top/article/common-tools-on-the-front-end)<!-- BLOG-POST-LIST:END -->
+ - [2024-03-27 与其倒腾，不如静下心来](https://kazoottt.top/article/instead-of-tossing-upside-down-its-better-to-calm-down)
+ - [2024-01-18 2024-W03-设计篇](https://kazoottt.top/article/2024-W03-design)
+ - [2024-01-18 2024-W03-编程篇](https://kazoottt.top/article/2024-W03-programming)
+ - [2024-01-18 2024-W03-推荐阅读篇](https://kazoottt.top/article/2024-W03-recommended-readings)
+ - [2024-01-18 2024-W03-应用推荐篇](https://kazoottt.top/article/2024-W03-application-recommendations)<!-- BLOG-POST-LIST:END -->
