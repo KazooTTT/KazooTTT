@@ -18,8 +18,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
- - [2024-04-12 2024-W15](https://kazoottt.top/article/2024-W15)
- - [2024-04-11 blender学习记录](https://kazoottt.top/article/blender-learning-record)
- - [2024-04-11 无设计经验的人如何快速利用工具制作封面](https://kazoottt.top/article/how-people-with-no-design-experience-can-quickly-make-use-of-tools-to-make-covers)
- - [2024-04-09 Diffusion Model演示文稿](https://kazoottt.top/article/diffusion-model)
- - [2024-02-23 2024-W08](https://kazoottt.top/article/2024-W08)<!-- BLOG-POST-LIST:END -->
+ - [2024-05-22 Page Visibility API](https://kazoottt.top/article/page-visibility-api)
+ - [2024-05-22 ChainForge简单介绍](https://kazoottt.top/article/chainforge-intro)
+ - [2024-05-21 沉浸式翻译自定义OPENAI接口油猴脚本报错](https://kazoottt.top/article/immersion-translation-error-message-for-custom-openai-interface-tampermonkey-script)
+ - [2024-05-06 how to check if a key is in the Object](https://kazoottt.top/article/how-to-check-if-a-key-is-in-the-object)
+ - [2023-12-03 2023-W48](https://kazoottt.top/article/2023-W48)<!-- BLOG-POST-LIST:END -->
