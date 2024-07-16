@@ -16,4 +16,4 @@ jobs:
         with:
           template: $newline - [$date $title]($url)
           date_format: "yyyy-mm-dd"	
-          feed_list: "https://blog.kazoottt.top/feed"
+          feed_list: "https://notes.kazoottt.top/index.xml"
