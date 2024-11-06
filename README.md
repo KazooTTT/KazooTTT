@@ -16,3 +16,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazooTTT&theme=radical" />
 </a>
+
+
+## 近期更新博客
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
