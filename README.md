@@ -20,5 +20,5 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+ - [2024-10-28 试试action5 pro推流到本地rtmp和有线连接的效果](https://kazoottt.hashnode.dev/action5-rtmp)
+ - [2024-10-19 Reasons Not to Recommend Purchasing Focusee for macOS Users](https://kazoottt.hashnode.dev/reasons-not-to-recommend-purchasing-focusee-for-macos-users)<!-- BLOG-POST-LIST:END -->
