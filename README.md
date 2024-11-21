@@ -20,6 +20,7 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
+ - [2024-11-21 vscode插件推荐](https://kazoottt.hashnode.dev/vscode-extentions)
  - [2024-11-14 最近状态比较差](https://kazoottt.hashnode.dev/feeling-quite-down-lately)
  - [2024-11-14 search params 请求参数的获取与更新](https://kazoottt.hashnode.dev/search-params)
  - [2024-10-28 试试action5 pro推流到本地rtmp和有线连接的效果](https://kazoottt.hashnode.dev/action5-rtmp)
