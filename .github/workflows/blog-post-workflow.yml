@@ -17,3 +17,4 @@ jobs:
           template: $newline - [$date $title]($url)
           date_format: "yyyy-mm-dd"	
           feed_list: "https://blog.kazoottt.top/rss.xml"
+          max_post_count: 10
