@@ -20,8 +20,8 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
- - [2024-11-23 个人工具与设备清单](https://kazoottt.hashnode.dev/personal-tools-and-equipment-list)
- - [2024-11-22 在vtk.js中stl和json的互相转化](https://kazoottt.hashnode.dev/vtkjsstljson)
- - [2024-11-21 vscode插件推荐](https://kazoottt.hashnode.dev/vscode-extentions)
- - [2024-11-14 最近状态比较差](https://kazoottt.hashnode.dev/feeling-quite-down-lately)
- - [2024-11-14 search params 请求参数的获取与更新](https://kazoottt.hashnode.dev/search-params)<!-- BLOG-POST-LIST:END -->
+ - [2024-11-23 个人工具与设备清单](https://blog.kazoottt.top/blog/personal-tools-and-equipment-inventory/)
+ - [2024-11-22 在vtk.js中stl和json的互相转化](https://blog.kazoottt.top/blog/in-vtkjs-stl-and-json-are-converted-to-each-other/)
+ - [2024-11-14 最近状态比较差](https://blog.kazoottt.top/blog/recently-the-state-has-been-relatively-poor/)
+ - [2024-11-13 search params 请求参数](https://blog.kazoottt.top/blog/search-params/)
+ - [2024-11-12 使用cursor生成git commit msg](https://blog.kazoottt.top/blog/cursorgit-commit-msg/)<!-- BLOG-POST-LIST:END -->
