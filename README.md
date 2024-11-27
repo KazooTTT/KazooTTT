@@ -20,6 +20,7 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
+ - [2024-11-26 2024-11-26 星期二](https://blog.kazoottt.top/dairy/2024-11-26/)
  - [2024-11-23 个人工具与设备清单](https://blog.kazoottt.top/blog/personal-tools-and-equipment-inventory/)
  - [2024-11-22 在vtk.js中stl和json的互相转化](https://blog.kazoottt.top/blog/in-vtkjs-stl-and-json-are-converted-to-each-other/)
  - [2024-11-14 最近状态比较差](https://blog.kazoottt.top/blog/recently-the-state-has-been-relatively-poor/)
@@ -28,5 +29,4 @@
  - [2024-11-12 视频颜色空间异常，请检查文件后重新上传](https://blog.kazoottt.top/blog/the-color-space-of-the-video-is-abnormal-please-check-the-file-and-upload-it-again/)
  - [2024-10-16 已经发布的分支在本地重命名之后如何推送到远程](https://blog.kazoottt.top/blog/rename-published-branch-git/)
  - [2024-10-16 在react中不要滥用 &amp;&amp;](https://blog.kazoottt.top/blog/do-not-misuse-short-circuiting-in-react/)
- - [2024-10-15 对于a标签的download属性](https://blog.kazoottt.top/blog/the-download-attribute-for-the-a-tag/)
- - [2024-10-15 禁止antd modal按下esc关闭弹窗](https://blog.kazoottt.top/blog/antd-modal-esc-disabled/)<!-- BLOG-POST-LIST:END -->
+ - [2024-10-15 对于a标签的download属性](https://blog.kazoottt.top/blog/the-download-attribute-for-the-a-tag/)<!-- BLOG-POST-LIST:END -->
