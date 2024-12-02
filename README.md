@@ -21,8 +21,8 @@
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
  - [2024-11-30 2024-11-30 星期六](https://blog.kazoottt.top/diary/diary-2024-11-30/)
- - [2024-11-29 使用github action定时同步obsidian内容到博客仓库](https://blog.kazoottt.top/blog/synchronize-profiles-to-remote-and-local-on-a-regular-basis/)
  - [2024-11-29 2024-11-29 星期五](https://blog.kazoottt.top/diary/diary-2024-11-29/)
+ - [2024-11-29 使用github action定时同步obsidian内容到博客仓库](https://blog.kazoottt.top/blog/synchronize-profiles-to-remote-and-local-on-a-regular-basis/)
  - [2024-11-28 2024-11-28 星期四](https://blog.kazoottt.top/diary/diary-2024-11-28/)
  - [2024-11-27 2024-11-27 星期三](https://blog.kazoottt.top/diary/diary-2024-11-27/)
  - [2024-11-26 2024-11-26 星期二](https://blog.kazoottt.top/diary/diary-2024-11-26/)
