@@ -20,6 +20,7 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
+ - [2024-12-12 2024-12-12 星期四](https://blog.kazoottt.top/diary/diary-2024-12-12/)
  - [2024-12-11 2024-12-11 星期三](https://blog.kazoottt.top/diary/diary-2024-12-11/)
  - [2024-12-11 raycast + imessage 2fa，messauto的半平替](https://blog.kazoottt.top/blog/raycast-imessage-2fa/)
  - [2024-11-30 2024-11-30 星期六](https://blog.kazoottt.top/diary/diary-2024-11-30/)
@@ -28,5 +29,4 @@
  - [2024-11-28 2024-11-28 星期四](https://blog.kazoottt.top/diary/diary-2024-11-28/)
  - [2024-11-27 2024-11-27 星期三](https://blog.kazoottt.top/diary/diary-2024-11-27/)
  - [2024-11-26 2024-11-26 星期二](https://blog.kazoottt.top/diary/diary-2024-11-26/)
- - [2024-11-23 个人工具与设备清单](https://blog.kazoottt.top/blog/personal-tools-and-equipment-inventory/)
- - [2024-11-22 在vtk.js中stl和json的互相转化](https://blog.kazoottt.top/blog/in-vtkjs-stl-and-json-are-converted-to-each-other/)<!-- BLOG-POST-LIST:END -->
+ - [2024-11-23 个人工具与设备清单](https://blog.kazoottt.top/blog/personal-tools-and-equipment-inventory/)<!-- BLOG-POST-LIST:END -->
