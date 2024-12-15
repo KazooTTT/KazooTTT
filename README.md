@@ -20,6 +20,7 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
+ - [2024-12-15 使用google sheet + api定时获取油管播放量](https://blog.kazoottt.top/blog/use-google-sheet-api-to-get-youtube-playbacks-on-a-regular-basis/)
  - [2024-12-12 2024-12-12 星期四](https://blog.kazoottt.top/diary/diary-2024-12-12/)
  - [2024-12-11 2024-12-11 星期三](https://blog.kazoottt.top/diary/diary-2024-12-11/)
  - [2024-12-11 raycast + imessage 2fa，messauto的半平替](https://blog.kazoottt.top/blog/raycast-imessage-2fa/)
@@ -28,5 +29,4 @@
  - [2024-11-29 使用github action定时同步obsidian内容到博客仓库](https://blog.kazoottt.top/blog/synchronize-profiles-to-remote-and-local-on-a-regular-basis/)
  - [2024-11-28 2024-11-28 星期四](https://blog.kazoottt.top/diary/diary-2024-11-28/)
  - [2024-11-27 2024-11-27 星期三](https://blog.kazoottt.top/diary/diary-2024-11-27/)
- - [2024-11-26 2024-11-26 星期二](https://blog.kazoottt.top/diary/diary-2024-11-26/)
- - [2024-11-23 个人工具与设备清单](https://blog.kazoottt.top/blog/personal-tools-and-equipment-inventory/)<!-- BLOG-POST-LIST:END -->
+ - [2024-11-26 2024-11-26 星期二](https://blog.kazoottt.top/diary/diary-2024-11-26/)<!-- BLOG-POST-LIST:END -->
