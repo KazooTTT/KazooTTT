@@ -20,13 +20,13 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
+ - [2024-12-19 使用cloudflare部署remix项目](https://blog.kazoottt.top/blog/deploy-remix-app-by-cloudflare/)
+ - [2024-12-19 合并多个PDF](https://blog.kazoottt.top/blog/merge-pdfs/)
  - [2024-12-18 与hanser有关的github仓库](https://blog.kazoottt.top/blog/hanser-repository/)
+ - [2024-12-17 Share My Incorrect Usage Cases of Zustand](https://blog.kazoottt.top/blog/share-my-incorrect-usage-case-of-zustand/)
+ - [2024-12-17 分享一下我的zustand错误使用案例](https://blog.kazoottt.top/blog/zustand-use-record/)
  - [2024-12-17 react-scan的用法](https://blog.kazoottt.top/blog/react-scan/)
- - [2024-12-17 zustand 使用备忘](https://blog.kazoottt.top/blog/zustand-use-record/)
  - [2024-12-17 网页端判断是什么系统，从而显示不同的组件。](https://blog.kazoottt.top/blog/the-web-side-determines-what-system-it-is-so-that-the-different-components-are-displayed/)
  - [2024-12-15 使用google sheet + api定时获取油管播放量](https://blog.kazoottt.top/blog/use-google-sheet-api-to-get-youtube-playbacks-on-a-regular-basis/)
  - [2024-12-12 2024-12-12 星期四](https://blog.kazoottt.top/diary/diary-2024-12-12/)
- - [2024-12-11 2024-12-11 星期三](https://blog.kazoottt.top/diary/diary-2024-12-11/)
- - [2024-12-11 raycast + imessage 2fa，messauto的半平替](https://blog.kazoottt.top/blog/raycast-imessage-2fa/)
- - [2024-11-30 2024-11-30 星期六](https://blog.kazoottt.top/diary/diary-2024-11-30/)
- - [2024-11-29 2024-11-29 星期五](https://blog.kazoottt.top/diary/diary-2024-11-29/)<!-- BLOG-POST-LIST:END -->
+ - [2024-12-11 2024-12-11 星期三](https://blog.kazoottt.top/diary/diary-2024-12-11/)<!-- BLOG-POST-LIST:END -->
