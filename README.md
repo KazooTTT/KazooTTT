@@ -20,6 +20,7 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
+ - [2025-01-05 whisper ui 下载模型 镜像设置](https://blog.kazoottt.top/blog/whisper-ui-download-model-mirror-setting/)
  - [2024-12-23 2024-12-23 星期一 学习 unity day01](https://blog.kazoottt.top/diary/diary-2024-12-23/)
  - [2024-12-19 合并多个PDF](https://blog.kazoottt.top/blog/merge-pdfs/)
  - [2024-12-19 2024-12-19 星期四](https://blog.kazoottt.top/diary/diary-2024-12-19/)
@@ -28,5 +29,4 @@
  - [2024-12-18 与hanser有关的github仓库](https://blog.kazoottt.top/blog/hanser-repository/)
  - [2024-12-17 Share My Incorrect Usage Cases of Zustand](https://blog.kazoottt.top/blog/share-my-incorrect-usage-case-of-zustand/)
  - [2024-12-17 分享一下我的zustand错误使用案例](https://blog.kazoottt.top/blog/zustand-use-record/)
- - [2024-12-17 react-scan的用法](https://blog.kazoottt.top/blog/react-scan/)
- - [2024-12-17 网页端判断是什么系统，从而显示不同的组件。](https://blog.kazoottt.top/blog/the-web-side-determines-what-system-it-is-so-that-the-different-components-are-displayed/)<!-- BLOG-POST-LIST:END -->
+ - [2024-12-17 react-scan的用法](https://blog.kazoottt.top/blog/react-scan/)<!-- BLOG-POST-LIST:END -->
