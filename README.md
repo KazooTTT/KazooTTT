@@ -23,7 +23,7 @@
  - [2025-01-12 “原来亲人在侧，是我最深重的感谢”](https://blog.kazoottt.top/blog/plain-and-simple-is-true/)
  - [2025-01-07 ollama + excel处理器开发总结](https://blog.kazoottt.top/blog/ollama-excel-processor-development-summary/)
  - [2025-01-07 在浏览器中 opengl 的配置与检测](https://blog.kazoottt.top/blog/how-to-check-opengl-configuration-and-detection-in-browser/)
- - [2025-01-06 2025-01-06 星期一](https://blog.kazoottt.top/blog/diary-2025-01-06/)
+ - [2025-01-06 2025-01-06 星期一](https://blog.kazoottt.top/diary/diary-2025-01-06/)
  - [2025-01-06 MUV家元旦24H限定食堂 - 汇总网站](https://blog.kazoottt.top/blog/milklovemuv/)
  - [2025-01-05 whisper ui 下载模型 镜像设置](https://blog.kazoottt.top/blog/whisper-ui-download-model-mirror-setting/)
  - [2024-12-23 2024-12-23 星期一 学习 unity day01](https://blog.kazoottt.top/diary/diary-2024-12-23/)
