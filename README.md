@@ -3,6 +3,8 @@
 
 [KazooTTT Blog | 博客](https://blog.kazoottt.top)
 
+[twitter](https://x.com/KazooTTT)
+
 [KazoooTTT Notes | 笔记](https://notes.kazoottt.top)
 
 [链接汇总](https://bento.me/kazoottt)
