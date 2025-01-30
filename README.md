@@ -22,7 +22,7 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
- - [2025-01-30 Y5-2024年度总结](https://blog.kazoottt.top/blog/summary-of-fy2024/)
+ - [2025-01-30 Y5-2024年度总结](https://blog.kazoottt.top/blog/summary-of-2024/)
  - [2025-01-20 how to separate object in blender](https://blog.kazoottt.top/blog/how-to-separate-object-in-blender/)
  - [2025-01-20 win11如何下载chatgpt](https://blog.kazoottt.top/blog/win11chatgpt/)
  - [2025-01-15 how to make a hollow cylinder in blender](https://blog.kazoottt.top/blog/how-to-make-a-hollow-cylinder-in-blender/)
