@@ -22,6 +22,7 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
+ - [2025-01-30 Y5-2024年度总结](https://blog.kazoottt.top/blog/summary-of-fy2024/)
  - [2025-01-20 how to separate object in blender](https://blog.kazoottt.top/blog/how-to-separate-object-in-blender/)
  - [2025-01-20 win11如何下载chatgpt](https://blog.kazoottt.top/blog/win11chatgpt/)
  - [2025-01-15 how to make a hollow cylinder in blender](https://blog.kazoottt.top/blog/how-to-make-a-hollow-cylinder-in-blender/)
@@ -30,5 +31,4 @@
  - [2025-01-07 ollama + excel处理器开发总结](https://blog.kazoottt.top/blog/ollama-excel-processor-development-summary/)
  - [2025-01-07 在浏览器中 opengl 的配置与检测](https://blog.kazoottt.top/blog/how-to-check-opengl-configuration-and-detection-in-browser/)
  - [2025-01-06 2025-01-06 星期一](https://blog.kazoottt.top/diary/diary-2025-01-06/)
- - [2025-01-06 MUV家元旦24H限定食堂 - 汇总网站](https://blog.kazoottt.top/blog/milklovemuv/)
- - [2025-01-05 whisper ui 下载模型 镜像设置](https://blog.kazoottt.top/blog/whisper-ui-download-model-mirror-setting/)<!-- BLOG-POST-LIST:END -->
+ - [2025-01-06 MUV家元旦24H限定食堂 - 汇总网站](https://blog.kazoottt.top/blog/milklovemuv/)<!-- BLOG-POST-LIST:END -->
