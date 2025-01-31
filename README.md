@@ -22,13 +22,13 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
- - [2025-01-30 Y5-2024年度总结](https://blog.kazoottt.top/blog/summary-of-2024/)
- - [2025-01-20 how to separate object in blender](https://blog.kazoottt.top/blog/how-to-separate-object-in-blender/)
+ - [2025-01-31 Blender on macOS - Steam Version Limitations for Apple Silicon Devices](https://blog.kazoottt.top/blog/blender-macos-steam-version-limitations/)
+ - [2025-01-31 How to Split Editor Windows in Blender](https://blog.kazoottt.top/blog/split-window-in-blender/)
+ - [2025-01-30 Y5-2024年度总结](https://blog.kazoottt.top/blog/2024-annual-summary/)
+ - [2025-01-20 How to Separate Objects in Blender](https://blog.kazoottt.top/blog/how-to-separate-object-in-blender/)
  - [2025-01-20 win11如何下载chatgpt](https://blog.kazoottt.top/blog/win11chatgpt/)
  - [2025-01-15 how to make a hollow cylinder in blender](https://blog.kazoottt.top/blog/how-to-make-a-hollow-cylinder-in-blender/)
  - [2025-01-14 how to generate the path like router config in vite + react + react-router project](https://blog.kazoottt.top/blog/how-to-generate-the-path-like-router-config-in-vite-react-react-router-project/)
  - [2025-01-12 “原来亲人在侧，是我最深重的感谢”](https://blog.kazoottt.top/blog/plain-and-simple-is-true/)
  - [2025-01-07 ollama + excel处理器开发总结](https://blog.kazoottt.top/blog/ollama-excel-processor-development-summary/)
- - [2025-01-07 在浏览器中 opengl 的配置与检测](https://blog.kazoottt.top/blog/how-to-check-opengl-configuration-and-detection-in-browser/)
- - [2025-01-06 2025-01-06 星期一](https://blog.kazoottt.top/diary/diary-2025-01-06/)
- - [2025-01-06 MUV家元旦24H限定食堂 - 汇总网站](https://blog.kazoottt.top/blog/milklovemuv/)<!-- BLOG-POST-LIST:END -->
+ - [2025-01-07 在浏览器中 opengl 的配置与检测](https://blog.kazoottt.top/blog/how-to-check-opengl-configuration-and-detection-in-browser/)<!-- BLOG-POST-LIST:END -->
