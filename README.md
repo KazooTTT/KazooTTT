@@ -23,7 +23,7 @@
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
  - [2025-02-03 记录一次滴滴打车维权](https://blog.kazoottt.top/blog/record-a-ride-sharing-complaint/)
- - [2025-02-01 封面生成器收集](https://blog.kazoottt.top/blog/cover-generator/)
+ - [2025-02-01 封面生成器推荐](https://blog.kazoottt.top/blog/cover-generator/)
  - [2025-01-31 Blender on macOS - Steam Version Limitations for Apple Silicon Devices](https://blog.kazoottt.top/blog/blender-macos-steam-version-limitations/)
  - [2025-01-31 How to Split Editor Windows in Blender](https://blog.kazoottt.top/blog/split-window-in-blender/)
  - [2025-01-30 Y5-2024年度总结](https://blog.kazoottt.top/blog/2024-annual-summary/)
