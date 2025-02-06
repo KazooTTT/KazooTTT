@@ -22,6 +22,7 @@
 
 ## 近期更新博客
 <!-- BLOG-POST-LIST:START -->
+ - [2025-02-06 Obsidian Web Clipper 离线阅读同人作品](https://blog.kazoottt.top/posts/obsidian-web-clipper-offline-reading-fanfics/)
  - [2025-02-01 封面生成器推荐](https://blog.kazoottt.top/posts/cover-generator/)
  - [2025-01-30 Y5-2024年度总结](https://blog.kazoottt.top/posts/2024-annual-summary/)
  - [2025-01-14 how to generate the path like router config in vite + react + react-router project](https://blog.kazoottt.top/posts/how-to-generate-the-path-like-router-config-in-vite-react-react-router-project/)
@@ -30,5 +31,4 @@
  - [2025-01-06 MUV家元旦24H限定食堂 - 汇总网站](https://blog.kazoottt.top/posts/milklovemuv/)
  - [2024-12-19 值得一看的博客](https://blog.kazoottt.top/posts/blogs-worth-reading/)
  - [2024-12-18 与hanser有关的github仓库](https://blog.kazoottt.top/posts/hanser-repository/)
- - [2024-12-17 分享一下我的zustand错误使用案例](https://blog.kazoottt.top/posts/zustand-use-record/)
- - [2024-12-11 raycast + imessage 2fa，messauto的半平替](https://blog.kazoottt.top/posts/raycast-imessage-2fa/)<!-- BLOG-POST-LIST:END -->
+ - [2024-12-17 分享一下我的zustand错误使用案例](https://blog.kazoottt.top/posts/zustand-use-record/)<!-- BLOG-POST-LIST:END -->
