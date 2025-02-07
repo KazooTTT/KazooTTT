@@ -31,4 +31,4 @@
  - [2025-01-06 MUV家元旦24H限定食堂 - 汇总网站](https://blog.kazoottt.top/posts/milklovemuv/)
  - [2024-12-19 值得一看的博客](https://blog.kazoottt.top/posts/blogs-worth-reading/)
  - [2024-12-18 与hanser有关的github仓库](https://blog.kazoottt.top/posts/hanser-repository/)
- - [2024-12-17 分享一下我的zustand错误使用案例](https://blog.kazoottt.top/posts/zustand-use-record/)<!-- BLOG-POST-LIST:END -->
+ - [2024-12-17 Share My Incorrect Usage Cases of Zustand](https://blog.kazoottt.top/posts/share-my-incorrect-usage-case-of-zustand-en/)<!-- BLOG-POST-LIST:END -->
