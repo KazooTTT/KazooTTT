@@ -29,22 +29,7 @@
  - [2025-03-02 [周报] 2025-W09 工作流升级](https://blog.kazoottt.top/posts/2025-W09/)
  - [2025-02-23 [周报] 2025-W08](https://blog.kazoottt.top/posts/2025-W08/)
  - [2025-02-21 [项目] rsshub 中新增 asianfanfics 路由](https://blog.kazoottt.top/posts/fragmented-notes-2025-02-21-16-38-50/)
- - [2025-02-20 [碎片] openwebui长时间白屏解决方案](https://blog.kazoottt.top/posts/openwebui-long-loading-white-screen-solution/)
- - [2025-02-16 [周报] 2025-W07](https://blog.kazoottt.top/posts/2025-W07/)
- - [2025-02-12 [脑洞] 处理markdown图片链接包含空格导致无法预览图片的问题](https://blog.kazoottt.top/posts/handling-markdown-image-links-containing-spaces-causing-preview-failures/)
- - [2025-02-09 [周报] 2025-W06](https://blog.kazoottt.top/posts/2025-W06/)
- - [2025-02-09 [前端] 不引入astro wiki plugin实现链接跳转的思路](https://blog.kazoottt.top/posts/redirect-links-without-astro-wiki-plugin/)
- - [2025-02-06 [软件] Obsidian Web Clipper 离线阅读同人作品](https://blog.kazoottt.top/posts/obsidian-web-clipper-offline-reading-fanfics/)
- - [2025-02-01 [软件] 封面生成器推荐](https://blog.kazoottt.top/posts/cover-generator/)
- - [2025-01-30 [年报] Y5-2024年度总结](https://blog.kazoottt.top/posts/2024-annual-summary/)
- - [2025-01-14 [frontend] how to generate the path like router config in vite + react + react-router project](https://blog.kazoottt.top/posts/how-to-generate-the-path-like-router-config-in-vite-react-react-router-project/)
- - [2025-01-12 [随笔] 原来亲人在侧，是我最深重的感谢](https://blog.kazoottt.top/posts/plain-and-simple-is-true/)
- - [2025-01-07 [随笔] ollama + excel 处理器开发总结](https://blog.kazoottt.top/posts/ollama-excel-processor-development-summary/)
- - [2025-01-06 [项目] MUV家元旦24H限定食堂 - 汇总网站](https://blog.kazoottt.top/posts/milklovemuv/)
- - [2024-12-19 [推荐] 值得一看的博客](https://blog.kazoottt.top/posts/blogs-worth-reading/)
- - [2024-12-18 与hanser有关的github仓库](https://blog.kazoottt.top/posts/hanser-repository/)
- - [2024-12-17 Share My Incorrect Usage Cases of Zustand](https://blog.kazoottt.top/posts/share-my-incorrect-usage-case-of-zustand-en/)
- - [2024-12-17 [前端] 分享一下我的 zustand 错误使用案例](https://blog.kazoottt.top/posts/zustand-use-record/)<!-- BLOG-POST-LIST:END -->
+ - [2025-02-20 [碎片] openwebui长时间白屏解决方案](https://blog.kazoottt.top/posts/openwebui-long-loading-white-screen-solution/)<!-- BLOG-POST-LIST:END -->
 
 ## [Memos](https://blog.kazoottt.top/notes/)
 <!-- MEMO-POST-LIST:START -->
