@@ -42,14 +42,4 @@
  - [2025-02-28 [日记] 2025-02-28 星期五](https://blog.kazoottt.top/notes/diary-2025-02-28/)
  - [2025-02-27 [日记] 2025-02-27  星期四](https://blog.kazoottt.top/notes/diary-2025-02-27/)
  - [2025-02-25 [日记] 2025-02-25 星期二](https://blog.kazoottt.top/notes/diary-2025-02-25/)
- - [2025-02-24 [日记] 2025-02-24  星期一](https://blog.kazoottt.top/notes/diary-2025-02-24/)
- - [2025-02-21 [碎片] 配置 cloudflare 规则实现重定向](https://blog.kazoottt.top/notes/fragmented-notes-2025-02-21-15-44-58/)
- - [2025-02-19 [碎片] 241029 1144 vite环境变量](https://blog.kazoottt.top/notes/fragmented-notes-2025-02-19-21-11-25/)
- - [2025-02-19 [碎片] 碎片-2025-02-19 17时30分 You Should Use Hono in your Next Projec](https://blog.kazoottt.top/notes/fragmented-notes-2025-02-19-17-30-55/)
- - [2025-02-17 [碎片] 碎片-2025-02-17 10时55分 做事设计](https://blog.kazoottt.top/notes/fragmented-notes-2025-02-17-10-55-29/)
- - [2025-02-16 [碎片] 2024-10-25 13分02秒 Vintage Camera Lab](https://blog.kazoottt.top/notes/fragmented-notes-2025-02-16-23-41-18/)
- - [2025-02-14 [前端] 碎片-2025-02-14 15时00分 状态没变更？记录一次没阻止冒泡导致的bug](https://blog.kazoottt.top/notes/fragmented-notes-2025-02-14-15-00-49/)
- - [2025-02-14 [碎片] 碎片-2025-02-14 15时18分 飞书 excalidraw画图对比](https://blog.kazoottt.top/notes/fragmented-notes-2025-02-14-15-18-56/)
- - [2025-02-11 [碎片] 碎片-2025-02-11 12时32分](https://blog.kazoottt.top/notes/fragmented-notes-2025-02-11-12-32-42/)
- - [2025-02-08 如何解决 Nginx 启动时未联网无法访问DNS而挂掉的问题](https://blog.kazoottt.top/notes/nginx-startup-fix-configure-local-hosts-file/)
- - [2025-02-06 [软件] 小红书长文切图笔记？其实 craft 就可以实现。](https://blog.kazoottt.top/notes/use-craft-to-cut-the-long-text-note-of-xiaohongshu/)<!-- MEMO-POST-LIST:END -->
+ - [2025-02-24 [日记] 2025-02-24  星期一](https://blog.kazoottt.top/notes/diary-2025-02-24/)<!-- MEMO-POST-LIST:END -->
