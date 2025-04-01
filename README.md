@@ -17,7 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazooTTT&theme=radical" />
 </a>
 
-# KazooTTT | 声控烤箱 博客
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
  - [2025-04-01 [随笔] 避免空口鉴抄、鉴AI](https://blog.kazoottt.top/posts/no-unproven-claims-against-creators/)
