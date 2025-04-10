@@ -19,7 +19,6 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
- - [2025-04-05 尝试一种新的英语学习方法](https://blog.kazoottt.top/posts/trying-a-new-way-to-learn-english/)
  - [2025-04-01 [随笔] 避免空口鉴抄、鉴AI](https://blog.kazoottt.top/posts/no-unproven-claims-against-creators/)
  - [2025-04-01 [随笔] 与被我荒废的 7 年告别，从头开始](https://blog.kazoottt.top/posts/saying-goodbye-to-wasted-7-years/)
  - [2025-03-23 [项目] milklove 小项目产出汇总](https://blog.kazoottt.top/posts/milklove-%E5%B0%8F%E9%A1%B9%E7%9B%AE%E4%BA%A7%E5%87%BA%E6%B1%87%E6%80%BB/)
@@ -28,4 +27,5 @@
  - [2025-03-09 [旅行] 南宁三天之旅](https://blog.kazoottt.top/posts/nanning-three-day-trip/)
  - [2025-03-05 [前端] 如何运行 ts 文件](https://blog.kazoottt.top/posts/how-to-run-ts-files/)
  - [2025-03-01 [周报] 2025-W09 工作流升级](https://blog.kazoottt.top/posts/2025-W09/)
- - [2025-02-22 [周报] 2025-W08](https://blog.kazoottt.top/posts/2025-W08/)<!-- BLOG-POST-LIST:END -->
+ - [2025-02-22 [周报] 2025-W08](https://blog.kazoottt.top/posts/2025-W08/)
+ - [2025-02-20 [项目] rsshub 中新增 asianfanfics 路由](https://blog.kazoottt.top/posts/fragmented-notes-2025-02-21-16-38-50/)<!-- BLOG-POST-LIST:END -->
