@@ -19,7 +19,7 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
- - [2025-05-09 [生活] 临时决定的五一上海之行](https://blog.kazoottt.top/posts/shanghai-trip/)
+ - [2025-05-09 [旅行] 临时决定的五一上海之行](https://blog.kazoottt.top/posts/shanghai-trip/)
  - [2025-04-29 目前学习知识的方法](https://blog.kazoottt.top/posts/%E7%9B%AE%E5%89%8D%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E7%9A%84%E6%96%B9%E6%B3%95/)
  - [2025-04-26 [周报] 2025-W17 Gap 了 2 个月](https://blog.kazoottt.top/posts/2025-W17/)
  - [2025-04-01 [随笔] 避免空口鉴抄、鉴AI](https://blog.kazoottt.top/posts/no-unproven-claims-against-creators/)
