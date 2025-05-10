@@ -19,13 +19,13 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
- - [2025-05-09 [生活] 上海之行](https://blog.kazoottt.top/posts/shanghai-trip/)
+ - [2025-05-09 [生活] 临时决定的五一上海之行](https://blog.kazoottt.top/posts/shanghai-trip/)
  - [2025-04-29 目前学习知识的方法](https://blog.kazoottt.top/posts/%E7%9B%AE%E5%89%8D%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E7%9A%84%E6%96%B9%E6%B3%95/)
  - [2025-04-26 [周报] 2025-W17 Gap 了 2 个月](https://blog.kazoottt.top/posts/2025-W17/)
  - [2025-04-01 [随笔] 避免空口鉴抄、鉴AI](https://blog.kazoottt.top/posts/no-unproven-claims-against-creators/)
  - [2025-04-01 [随笔] 与被我荒废的 7 年告别，从头开始](https://blog.kazoottt.top/posts/saying-goodbye-to-wasted-7-years/)
- - [2025-03-23 [项目] milklove 小项目产出汇总](https://blog.kazoottt.top/posts/milklove-%E5%B0%8F%E9%A1%B9%E7%9B%AE%E4%BA%A7%E5%87%BA%E6%B1%87%E6%80%BB/)
  - [2025-03-23 [项目] milklove 重生计划 分支可视化](https://blog.kazoottt.top/posts/milklove-project-reborn/)
+ - [2025-03-23 [项目] milklove 小项目产出汇总](https://blog.kazoottt.top/posts/milklove-%E5%B0%8F%E9%A1%B9%E7%9B%AE%E4%BA%A7%E5%87%BA%E6%B1%87%E6%80%BB/)
  - [2025-03-19 [随笔] 写在离职之后](https://blog.kazoottt.top/posts/post-resignation-reflections/)
  - [2025-03-19 使用macOS自带的语音听写功能作为输入方式，省时省力](https://blog.kazoottt.top/posts/using-macos-built-in-voice-dictation-as-input/)
  - [2025-03-09 [旅行] 南宁三天之旅](https://blog.kazoottt.top/posts/nanning-three-day-trip/)<!-- BLOG-POST-LIST:END -->
