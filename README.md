@@ -19,6 +19,7 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
+ - [2025-07-31 一些问题和反思](https://blog.kazoottt.top/posts/reflections-about-work/)
  - [2025-07-07 如何自动同步某个文件夹的图片到某个相册中](https://blog.kazoottt.top/posts/auto-sync-folder-to-album/)
  - [2025-06-22 2025-W25](https://blog.kazoottt.top/posts/2025-W25/)
  - [2025-06-08 Y4-2023年度总结](https://blog.kazoottt.top/posts/summary-of-fy2023/)
@@ -27,5 +28,4 @@
  - [2025-05-17 处理markdown图片链接包含空格导致无法预览图片的问题](https://blog.kazoottt.top/posts/handling-markdown-image-links-containing-spaces-causing-preview-failures/)
  - [2025-05-09 临时决定的五一上海之行](https://blog.kazoottt.top/posts/shanghai-trip/)
  - [2025-05-09 封面生成器推荐](https://blog.kazoottt.top/posts/cover-generator/)
- - [2025-04-28 目前学习知识的方法](https://blog.kazoottt.top/posts/%E7%9B%AE%E5%89%8D%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E7%9A%84%E6%96%B9%E6%B3%95/)
- - [2025-04-28 2025-W07 提了离职、反思与规划](https://blog.kazoottt.top/posts/2025-W07/)<!-- BLOG-POST-LIST:END -->
+ - [2025-04-28 目前学习知识的方法](https://blog.kazoottt.top/posts/%E7%9B%AE%E5%89%8D%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E7%9A%84%E6%96%B9%E6%B3%95/)<!-- BLOG-POST-LIST:END -->
