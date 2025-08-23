@@ -19,13 +19,13 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
- - [2025-07-31 一些问题和反思](https://blog.kazoottt.top/posts/reflections-about-work/)
+ - [2025-08-23 2025-08 三重 ddl 下的高压 8 月](https://blog.kazoottt.top/posts/2025-08-monthly-report/)
+ - [2025-08-23 2025-W09 工作流升级](https://blog.kazoottt.top/posts/2025-W09/)
+ - [2025-08-23 2024-W03](https://blog.kazoottt.top/posts/2024-W03/)
+ - [2025-08-17 一些问题和反思](https://blog.kazoottt.top/posts/reflections-about-work/)
  - [2025-07-07 如何自动同步某个文件夹的图片到某个相册中](https://blog.kazoottt.top/posts/auto-sync-folder-to-album/)
  - [2025-06-22 2025-W25](https://blog.kazoottt.top/posts/2025-W25/)
  - [2025-06-08 Y4-2023年度总结](https://blog.kazoottt.top/posts/summary-of-fy2023/)
  - [2025-05-17 2025-W20](https://blog.kazoottt.top/posts/2025-W20/)
  - [2025-05-17 2025-W17 Gap 了 2 个月](https://blog.kazoottt.top/posts/2025-W17/)
- - [2025-05-17 处理markdown图片链接包含空格导致无法预览图片的问题](https://blog.kazoottt.top/posts/handling-markdown-image-links-containing-spaces-causing-preview-failures/)
- - [2025-05-09 临时决定的五一上海之行](https://blog.kazoottt.top/posts/shanghai-trip/)
- - [2025-05-09 封面生成器推荐](https://blog.kazoottt.top/posts/cover-generator/)
- - [2025-04-28 目前学习知识的方法](https://blog.kazoottt.top/posts/%E7%9B%AE%E5%89%8D%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E7%9A%84%E6%96%B9%E6%B3%95/)<!-- BLOG-POST-LIST:END -->
+ - [2025-05-17 处理markdown图片链接包含空格导致无法预览图片的问题](https://blog.kazoottt.top/posts/handling-markdown-image-links-containing-spaces-causing-preview-failures/)<!-- BLOG-POST-LIST:END -->
