@@ -19,7 +19,7 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
- - [2025-08-23 2025-08 三重 ddl 下的高压 8 月](https://blog.kazoottt.top/posts/2025-08-monthly-report/)
+ - [2025-08-23 2025年08月月报](https://blog.kazoottt.top/posts/2025-08-monthly-report/)
  - [2025-08-23 一些问题和反思](https://blog.kazoottt.top/posts/reflections-about-work/)
  - [2025-08-23 目前学习知识的方法](https://blog.kazoottt.top/posts/%E7%9B%AE%E5%89%8D%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E7%9A%84%E6%96%B9%E6%B3%95/)
  - [2025-08-23 与被我荒废的 7 年告别，从头开始](https://blog.kazoottt.top/posts/saying-goodbye-to-wasted-7-years/)
