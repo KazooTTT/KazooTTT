@@ -19,13 +19,13 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
+ - [2025-08-24 2025-W08](https://blog.kazoottt.top/posts/2025-W08/)
+ - [2025-08-24 不引入astro wiki plugin实现链接跳转的思路](https://blog.kazoottt.top/posts/redirect-links-without-astro-wiki-plugin/)
+ - [2025-08-24 分享一下我的 zustand 错误使用案例](https://blog.kazoottt.top/posts/zustand-use-record/)
+ - [2025-08-24 如何实现在markdown中渲染iframe](https://blog.kazoottt.top/posts/how-to-render-iframes-in-markdown/)
  - [2025-08-23 2025年08月月报](https://blog.kazoottt.top/posts/2025-08-monthly-report/)
  - [2025-08-23 一些问题和反思](https://blog.kazoottt.top/posts/reflections-about-work/)
  - [2025-08-23 目前学习知识的方法](https://blog.kazoottt.top/posts/%E7%9B%AE%E5%89%8D%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E7%9A%84%E6%96%B9%E6%B3%95/)
  - [2025-08-23 与被我荒废的 7 年告别，从头开始](https://blog.kazoottt.top/posts/saying-goodbye-to-wasted-7-years/)
  - [2025-08-23 milklove 小项目产出汇总](https://blog.kazoottt.top/posts/milklove%20%E5%B0%8F%E9%A1%B9%E7%9B%AE%E4%BA%A7%E5%87%BA%E6%B1%87%E6%80%BB/)
- - [2025-08-23 使用macOS自带的语音听写功能作为输入方式，省时省力](https://blog.kazoottt.top/posts/using-macos-built-in-voice-dictation-as-input/)
- - [2025-08-23 写在离职之后](https://blog.kazoottt.top/posts/post-resignation-reflections/)
- - [2025-08-23 南宁三天之旅](https://blog.kazoottt.top/posts/nanning-three-day-trip/)
- - [2025-08-23 如何运行 ts 文件](https://blog.kazoottt.top/posts/how-to-run-ts-files/)
- - [2025-08-23 2025-W09 工作流升级](https://blog.kazoottt.top/posts/2025-W09/)<!-- BLOG-POST-LIST:END -->
+ - [2025-08-23 使用macOS自带的语音听写功能作为输入方式，省时省力](https://blog.kazoottt.top/posts/using-macos-built-in-voice-dictation-as-input/)<!-- BLOG-POST-LIST:END -->
