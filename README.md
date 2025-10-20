@@ -19,6 +19,7 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
+ - [2025-10-19 vscode插件](https://blog.kazoottt.top/posts/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%BA%9Bvscode%E6%8F%92%E4%BB%B6/)
  - [2025-08-23 2025年08月月报](https://blog.kazoottt.top/posts/2025-08-monthly-report/)
  - [2025-07-31 一些问题和反思](https://blog.kazoottt.top/posts/reflections-about-work/)
  - [2025-06-21 2025-W25](https://blog.kazoottt.top/posts/2025-W25/)
@@ -27,5 +28,4 @@
  - [2025-04-29 目前学习知识的方法](https://blog.kazoottt.top/posts/%E7%9B%AE%E5%89%8D%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E7%9A%84%E6%96%B9%E6%B3%95/)
  - [2025-04-26 2025-W17 Gap 了 2 个月](https://blog.kazoottt.top/posts/2025-W17/)
  - [2025-04-01 避免空口鉴抄、鉴AI](https://blog.kazoottt.top/posts/no-unproven-claims-against-creators/)
- - [2025-04-01 与被我荒废的 7 年告别，从头开始](https://blog.kazoottt.top/posts/saying-goodbye-to-wasted-7-years/)
- - [2025-03-23 milklove 小项目产出汇总](https://blog.kazoottt.top/posts/milklove%20%E5%B0%8F%E9%A1%B9%E7%9B%AE%E4%BA%A7%E5%87%BA%E6%B1%87%E6%80%BB/)<!-- BLOG-POST-LIST:END -->
+ - [2025-04-01 与被我荒废的 7 年告别，从头开始](https://blog.kazoottt.top/posts/saying-goodbye-to-wasted-7-years/)<!-- BLOG-POST-LIST:END -->
