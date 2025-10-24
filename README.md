@@ -20,7 +20,7 @@
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
  - [2025-10-21 聊聊我不喜欢 atlas 的几点](https://blog.kazoottt.top/posts/alking-about-things-i-dislike-about-atlas/)
- - [2025-10-19 vscode插件](https://blog.kazoottt.top/posts/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%BA%9Bvscode%E6%8F%92%E4%BB%B6/)
+ - [2025-10-19 推荐一些前端相关的vscode插件](https://blog.kazoottt.top/posts/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%BA%9Bvscode%E6%8F%92%E4%BB%B6/)
  - [2025-08-23 2025年08月月报](https://blog.kazoottt.top/posts/2025-08-monthly-report/)
  - [2025-07-31 一些问题和反思](https://blog.kazoottt.top/posts/reflections-about-work/)
  - [2025-06-21 2025-W25](https://blog.kazoottt.top/posts/2025-W25/)
