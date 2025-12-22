@@ -19,6 +19,7 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
+ - [2025-12-05 我终于也是有猫的人了！](https://blog.kazoottt.top/posts/我终于也是有猫的人了！)
  - [2025-11-25 使用GitHub Actions自动发布npm包需要注意的点](https://blog.kazoottt.top/posts/使用github actions 自动发布 npm 包需要注意的点)
  - [2025-10-26 重新明确笔记软件和博客的边界](https://blog.kazoottt.top/posts/重新明确笔记软件和博客的边界)
  - [2025-10-21 聊聊我不喜欢 atlas 的几点](https://blog.kazoottt.top/posts/聊聊我不喜欢 atlas 的几点)
@@ -27,5 +28,4 @@
  - [2025-07-31 一些问题和反思](https://blog.kazoottt.top/posts/一些问题和反思)
  - [2025-06-21 2025-W25](https://blog.kazoottt.top/posts/2025-W25)
  - [2025-05-17 2025-W20](https://blog.kazoottt.top/posts/2025-W20)
- - [2025-05-09 临时决定的五一上海之行](https://blog.kazoottt.top/posts/临时决定的五一上海之行)
- - [2025-04-29 目前学习知识的方法](https://blog.kazoottt.top/posts/目前学习知识的方法)<!-- BLOG-POST-LIST:END -->
+ - [2025-05-09 临时决定的五一上海之行](https://blog.kazoottt.top/posts/临时决定的五一上海之行)<!-- BLOG-POST-LIST:END -->
