@@ -19,13 +19,13 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
- - [2025-12-05 我终于也是有猫的人了！](https://blog.kazoottt.top/posts/我终于也是有猫的人了！)
- - [2025-11-25 使用GitHub Actions自动发布npm包需要注意的点](https://blog.kazoottt.top/posts/使用github actions 自动发布 npm 包需要注意的点)
- - [2025-10-26 重新明确笔记软件和博客的边界](https://blog.kazoottt.top/posts/重新明确笔记软件和博客的边界)
- - [2025-10-21 聊聊我不喜欢 atlas 的几点](https://blog.kazoottt.top/posts/聊聊我不喜欢 atlas 的几点)
- - [2025-10-19 推荐一些前端相关的vscode插件](https://blog.kazoottt.top/posts/推荐一些vscode插件)
- - [2025-08-23 2025年08月月报](https://blog.kazoottt.top/posts/2025-08)
- - [2025-07-31 一些问题和反思](https://blog.kazoottt.top/posts/一些问题和反思)
+ - [2025-12-05 我终于也是有猫的人了！](https://blog.kazoottt.top/posts/finally-have-cats)
+ - [2025-11-25 使用GitHub Actions自动发布npm包需要注意的点](https://blog.kazoottt.top/posts/github-actions-npm-publish-guide)
+ - [2025-10-26 重新明确笔记软件和博客的边界](https://blog.kazoottt.top/posts/re-clarify-the-boundary-between-note-taking-software-and-blogs)
+ - [2025-10-21 聊聊我不喜欢 atlas 的几点](https://blog.kazoottt.top/posts/alking-about-things-i-dislike-about-atlas)
+ - [2025-10-19 推荐一些前端相关的vscode插件](https://blog.kazoottt.top/posts/recommend-some-vscode-plugins)
+ - [2025-08-23 2025年08月月报](https://blog.kazoottt.top/posts/2025-08-monthly-report)
+ - [2025-07-31 一些问题和反思](https://blog.kazoottt.top/posts/reflections-about-work)
  - [2025-06-21 2025-W25](https://blog.kazoottt.top/posts/2025-W25)
  - [2025-05-17 2025-W20](https://blog.kazoottt.top/posts/2025-W20)
- - [2025-05-09 临时决定的五一上海之行](https://blog.kazoottt.top/posts/临时决定的五一上海之行)<!-- BLOG-POST-LIST:END -->
+ - [2025-05-09 临时决定的五一上海之行](https://blog.kazoottt.top/posts/shanghai-trip)<!-- BLOG-POST-LIST:END -->
