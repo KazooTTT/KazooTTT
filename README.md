@@ -19,7 +19,7 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
- - [2026-04-07 Bug-回填错误](https://blog.kazoottt.top/posts/bug-backfill-error)
+ - [2026-04-07 bug-form回填错误](https://blog.kazoottt.top/posts/bug-backfill-error)
  - [2026-04-06 ClaudeCode三种扩展方式的区别](https://blog.kazoottt.top/posts/claude-code-extensions-quickstart)
  - [2026-03-04 在碎片与系统输出之间 关于笔记软件与 AI 协同的尝试](https://blog.kazoottt.top/posts/transition-between-fragments-and-system-output)
  - [2026-02-18 高估行动成本导致状态低迷](https://blog.kazoottt.top/posts/overestimate-action-costs-slack-off)
