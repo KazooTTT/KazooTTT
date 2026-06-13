@@ -19,6 +19,7 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
+ - [2026-06-12 最近的变化：重新找回身体、学习和表达的节奏](https://blog.kazoottt.top/posts/recent-changes)
  - [2026-05-31 Axios 全局 json-bigint 解析导致空原型对象渲染崩溃](https://blog.kazoottt.top/posts/axios-global-json-bigint-null-prototype-object-render-crash)
  - [2026-04-07 bug-form 回填错误](https://blog.kazoottt.top/posts/bug-backfill-error)
  - [2026-04-06 ClaudeCode三种扩展方式的区别](https://blog.kazoottt.top/posts/claude-code-extensions-quickstart)
@@ -27,5 +28,4 @@
  - [2025-12-05 我终于也是有猫的人了！](https://blog.kazoottt.top/posts/finally-have-cats)
  - [2025-11-25 使用GitHub Actions自动发布npm包需要注意的点](https://blog.kazoottt.top/posts/github-actions-npm-publish-guide)
  - [2025-10-26 重新明确笔记软件和博客的边界](https://blog.kazoottt.top/posts/re-clarify-the-boundary-between-note-taking-software-and-blogs)
- - [2025-10-21 聊聊我不喜欢 atlas 的几点](https://blog.kazoottt.top/posts/alking-about-things-i-dislike-about-atlas)
- - [2025-10-19 推荐一些前端相关的vscode插件](https://blog.kazoottt.top/posts/recommend-some-vscode-plugins)<!-- BLOG-POST-LIST:END -->
+ - [2025-10-21 聊聊我不喜欢 atlas 的几点](https://blog.kazoottt.top/posts/alking-about-things-i-dislike-about-atlas)<!-- BLOG-POST-LIST:END -->
