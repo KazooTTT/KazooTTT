@@ -19,7 +19,7 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
- - [2026-06-12 最近的变化：重新找回身体、学习和表达的节奏](https://blog.kazoottt.top/posts/recent-changes)
+ - [2026-06-12 最近的变化-锻炼身体、调整学习状态](https://blog.kazoottt.top/posts/recent-changes)
  - [2026-05-31 Axios 全局 json-bigint 解析导致空原型对象渲染崩溃](https://blog.kazoottt.top/posts/axios-global-json-bigint-null-prototype-object-render-crash)
  - [2026-04-07 bug-form 回填错误](https://blog.kazoottt.top/posts/bug-backfill-error)
  - [2026-04-06 ClaudeCode三种扩展方式的区别](https://blog.kazoottt.top/posts/claude-code-extensions-quickstart)
