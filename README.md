@@ -19,6 +19,7 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
+ - [2026-06-28 Thino 页面触发 Linter 自动插入 Frontmatter 的排查与解决](https://blog.kazoottt.top/posts/thino-linter-frontmatter-fix)
  - [2026-06-21 衬线、字重与可变字体](https://blog.kazoottt.top/posts/serif-font-weight-variable-fonts)
  - [2026-06-12 最近的变化-锻炼身体、调整学习状态](https://blog.kazoottt.top/posts/recent-changes)
  - [2026-05-31 Axios 全局 json-bigint 解析导致空原型对象渲染崩溃](https://blog.kazoottt.top/posts/axios-global-json-bigint-null-prototype-object-render-crash)
@@ -27,5 +28,4 @@
  - [2026-03-04 在碎片与系统输出之间 关于笔记软件与 AI 协同的尝试](https://blog.kazoottt.top/posts/transition-between-fragments-and-system-output)
  - [2026-02-18 高估行动成本导致状态低迷](https://blog.kazoottt.top/posts/overestimate-action-costs-slack-off)
  - [2025-12-05 我终于也是有猫的人了！](https://blog.kazoottt.top/posts/finally-have-cats)
- - [2025-11-25 使用GitHub Actions自动发布npm包需要注意的点](https://blog.kazoottt.top/posts/github-actions-npm-publish-guide)
- - [2025-10-26 重新明确笔记软件和博客的边界](https://blog.kazoottt.top/posts/re-clarify-the-boundary-between-note-taking-software-and-blogs)<!-- BLOG-POST-LIST:END -->
+ - [2025-11-25 使用GitHub Actions自动发布npm包需要注意的点](https://blog.kazoottt.top/posts/github-actions-npm-publish-guide)<!-- BLOG-POST-LIST:END -->
