@@ -19,6 +19,7 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
+ - [2026-07-13 Cherry Studio 提示词模板（2026-07-14）](https://blog.kazoottt.top/posts/cherrystudio-prompts-bak)
  - [2026-07-01 Obsidian 全屏日历](https://blog.kazoottt.top/posts/periodic-calendar-page-obsidian-plugin)
  - [2026-06-28 Thino 页面触发 Linter 自动插入 Frontmatter 的排查与解决](https://blog.kazoottt.top/posts/thino-linter-frontmatter-fix)
  - [2026-06-21 衬线、字重与可变字体](https://blog.kazoottt.top/posts/serif-font-weight-variable-fonts)
@@ -27,5 +28,4 @@
  - [2026-04-07 bug-form 回填错误](https://blog.kazoottt.top/posts/bug-backfill-error)
  - [2026-04-06 ClaudeCode三种扩展方式的区别](https://blog.kazoottt.top/posts/claude-code-extensions-quickstart)
  - [2026-03-04 在碎片与系统输出之间 关于笔记软件与 AI 协同的尝试](https://blog.kazoottt.top/posts/transition-between-fragments-and-system-output)
- - [2026-02-18 高估行动成本导致状态低迷](https://blog.kazoottt.top/posts/overestimate-action-costs-slack-off)
- - [2025-12-05 我终于也是有猫的人了！](https://blog.kazoottt.top/posts/finally-have-cats)<!-- BLOG-POST-LIST:END -->
+ - [2026-02-18 高估行动成本导致状态低迷](https://blog.kazoottt.top/posts/overestimate-action-costs-slack-off)<!-- BLOG-POST-LIST:END -->
