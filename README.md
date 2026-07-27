@@ -19,13 +19,13 @@
 
 ## [Blog](https://blog.kazoottt.top/posts/)
 <!-- BLOG-POST-LIST:START -->
- - [2026-07-19 从上传到访问：OSS 文件的响应头如何影响浏览器行为](https://blog.kazoottt.top/posts/oss-response-headers-browser-behavior)
- - [2026-07-14 做出产品之后，然后呢](https://blog.kazoottt.top/posts/what-comes-after-building-a-product)
- - [2026-07-13 Cherry Studio 提示词模板（2026-07-14）](https://blog.kazoottt.top/posts/cherrystudio-prompts-bak)
- - [2026-07-01 Obsidian 全屏日历](https://blog.kazoottt.top/posts/periodic-calendar-page-obsidian-plugin)
- - [2026-06-28 Thino 页面触发 Linter 自动插入 Frontmatter 的排查与解决](https://blog.kazoottt.top/posts/thino-linter-frontmatter-fix)
- - [2026-06-21 衬线、字重与可变字体](https://blog.kazoottt.top/posts/serif-font-weight-variable-fonts)
- - [2026-06-12 最近的变化-锻炼身体、调整学习状态](https://blog.kazoottt.top/posts/recent-changes)
- - [2026-05-31 Axios 全局 json-bigint 解析导致空原型对象渲染崩溃](https://blog.kazoottt.top/posts/axios-global-json-bigint-null-prototype-object-render-crash)
- - [2026-04-07 bug-form 回填错误](https://blog.kazoottt.top/posts/bug-backfill-error)
- - [2026-04-06 ClaudeCode三种扩展方式的区别](https://blog.kazoottt.top/posts/claude-code-extensions-quickstart)<!-- BLOG-POST-LIST:END -->
+ - [2026-07-20 从上传到访问：OSS 文件的响应头如何影响浏览器行为](https://blog.kazoottt.top/posts/83/)
+ - [2026-07-15 做出产品之后，然后呢](https://blog.kazoottt.top/posts/82/)
+ - [2026-07-14 Cherry Studio 提示词模板（2026-07-14）](https://blog.kazoottt.top/posts/81/)
+ - [2026-07-02 Obsidian 全屏日历](https://blog.kazoottt.top/posts/80/)
+ - [2026-06-29 Thino 页面触发 Linter 自动插入 Frontmatter 的排查与解决](https://blog.kazoottt.top/posts/79/)
+ - [2026-06-22 衬线、字重与可变字体](https://blog.kazoottt.top/posts/78/)
+ - [2026-06-13 最近的变化-锻炼身体、调整学习状态](https://blog.kazoottt.top/posts/77/)
+ - [2026-06-01 Axios 全局 json-bigint 解析导致空原型对象渲染崩溃](https://blog.kazoottt.top/posts/76/)
+ - [2026-04-08 bug-form 回填错误](https://blog.kazoottt.top/posts/75/)
+ - [2026-04-07 ClaudeCode三种扩展方式的区别](https://blog.kazoottt.top/posts/74/)<!-- BLOG-POST-LIST:END -->
