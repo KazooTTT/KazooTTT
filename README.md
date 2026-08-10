@@ -47,8 +47,5 @@
  - [2026-06-13 最近的变化-锻炼身体、调整学习状态](https://blog.kazoottt.top/posts/77/)
  - [2026-06-01 Axios 全局 json-bigint 解析导致空原型对象渲染崩溃](https://blog.kazoottt.top/posts/76/)<!-- BLOG-POST-LIST:END -->
 
-<div align="center">
-
 [查看更多文章](https://blog.kazoottt.top/archive/)
 
-</div>
