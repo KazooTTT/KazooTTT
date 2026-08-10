@@ -49,6 +49,6 @@
 
 <div align="center">
 
-[查看更多文章](https://blog.kazoottt.top/posts/)
+[查看更多文章](https://blog.kazoottt.top/archive/)
 
 </div>
