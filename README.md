@@ -36,6 +36,7 @@
 ## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
+ - [2026-09-22 Quick PR Tool v1.0.17 - 新增 Back to Source Branch 功能](https://blog.kazoottt.top/posts/107/)
  - [2026-09-04 Tana 全局快捷键自定义失效：schema 键名与实际读取键名不一致](https://blog.kazoottt.top/posts/102/)
  - [2026-08-31 我给自己写的几个 Obsidian 插件](https://blog.kazoottt.top/posts/100/)
  - [2026-07-31 Rocket Loader：让 JavaScript 晚点运行，页面就一定更快吗？](https://blog.kazoottt.top/posts/86/)
@@ -44,8 +45,7 @@
  - [2026-07-15 做出产品之后，然后呢](https://blog.kazoottt.top/posts/82/)
  - [2026-07-14 Cherry Studio 提示词模板（2026-07-14）](https://blog.kazoottt.top/posts/81/)
  - [2026-07-02 Obsidian 全屏日历](https://blog.kazoottt.top/posts/80/)
- - [2026-06-29 Thino 页面触发 Linter 自动插入 Frontmatter 的排查与解决](https://blog.kazoottt.top/posts/79/)
- - [2026-06-22 衬线、字重与可变字体](https://blog.kazoottt.top/posts/78/)<!-- BLOG-POST-LIST:END -->
+ - [2026-06-29 Thino 页面触发 Linter 自动插入 Frontmatter 的排查与解决](https://blog.kazoottt.top/posts/79/)<!-- BLOG-POST-LIST:END -->
 
 [查看更多文章](https://blog.kazoottt.top/archive/)
 
